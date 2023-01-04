@@ -1,10 +1,27 @@
 # Getting Started with Create React App
 
+🅼🅰🆂🆃🅴🆁 🅲🅰🅻🅲🆄🅻🅰🆃🅾🆁 🆁🅴🅰🅲🆃🅹🆂
+
+### Images
+![Calculator](https://github.com/beknurmaxalbayev/Master-Calculator-ReactJS/blob/main/Master%20Calculator%20PNG/Calculator.png?raw=true)
+
+![Calculator](https://github.com/beknurmaxalbayev/Master-Calculator-ReactJS/blob/main/Master%20Calculator%20PNG/Calculator1.png?raw=true)
+
+![Calculator](https://github.com/beknurmaxalbayev/Master-Calculator-ReactJS/blob/main/Master%20Calculator%20PNG/Calculator2.png?raw=true)
+
+![Calculator](https://github.com/beknurmaxalbayev/Master-Calculator-ReactJS/blob/main/Master%20Calculator%20PNG/Calculator3.png?raw=true)
+
+![Calculator](https://github.com/beknurmaxalbayev/Master-Calculator-ReactJS/blob/main/Master%20Calculator%20PNG/Calculator4.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Type npm install in the terminal
 
 ### `npm start`
 
